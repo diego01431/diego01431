@@ -1,8 +1,8 @@
 # Olá 👋
 
 ## Sobre mim
-<h2>• Estudante de Programação 💻 </h2>
-<h2>• Desenvolvedor Full Stack</h2>
+<h3>• Estudante de Programação 💻 </h3>
+<h3>• Desenvolvedor Full Stack</h3>
 
 ---
 
