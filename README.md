@@ -1,6 +1,6 @@
 # Olá 👋
 
-# Sobre mim
+## Sobre mim
 <h2>• Estudante de Programação 💻 </h2>
 <h2>• Desenvolvedor Full Stack</h2>
 
