@@ -1,5 +1,4 @@
 # Olá 👋
-
 ## Sobre mim
 <h3>• Estudante de Programação 💻 </h3>
 <h3>• Desenvolvedor Full Stack</h3>
